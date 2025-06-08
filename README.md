@@ -45,3 +45,11 @@ You can now trigger this Logic App as a playbook within Microsoft Sentinel to au
 
 # Notes
 When entering the API key into the Template, make sure that you start the key with Api-Key then the API Key EX Api-Key Zdl5P1Cu.ZCHu0AmO7ppQepsL4b8FnHflffUBYFV5. If you miss this step the API Key will fail. You can schedule this to run as a playbook. 
+
+# Deploy to Azure
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjamesory%2FEDL%2Fmain%2FEDLTemplate.json" target="_blank">
+  <img src="https://aka.ms/deploytoazurebutton" alt="Deploy to Azure"/>
+</a>
+
+
